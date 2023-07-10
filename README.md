@@ -26,11 +26,11 @@ Enter `--light True` if needed (Takes up a lot of GPU)
 ### Reference
 [U-GAT-IT, pytorch](https://github.com/taki0112/UGATIT)
 
-@inproceedings{
+[@inprocedings](@inproceedings{
 Kim2020U-GAT-IT:,
 title={U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation},
 author={Junho Kim and Minjae Kim and Hyeonwoo Kang and Kwang Hee Lee},
 booktitle={International Conference on Learning Representations},
 year={2020},
 url={https://openreview.net/forum?id=BJlZ5ySKPH}
-}
+})
