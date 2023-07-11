@@ -1,5 +1,5 @@
-# KUBIG-UGATIT-torch
-## KUBIG 웹툰 가상캐스팅 프로젝트 - 웹툰 실사화 모델 based on U-GAT-IT
+# toon2face : Inference of U-GAT-IT
+## KUBIG 2023 Spring CV 웹툰 가상캐스팅 프로젝트 - 웹툰 실사화 모델 based on U-GAT-IT
 ---
 ### Dataset used
 - A : 3000 cropped faces from Naver webtoons
